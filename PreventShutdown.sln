@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventShutdown", "PreventShutdown\PreventShutdown.csproj", "{0B9B6D25-8D83-493B-B9FE-4D8E12A87DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventShutdownComponent", "PreventShutdownComponent\PreventShutdownComponent.csproj", "{683FF0AC-8B32-4EA8-BD5A-B6F40623DDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9B6D25-8D83-493B-B9FE-4D8E12A87DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9B6D25-8D83-493B-B9FE-4D8E12A87DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9B6D25-8D83-493B-B9FE-4D8E12A87DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9B6D25-8D83-493B-B9FE-4D8E12A87DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683FF0AC-8B32-4EA8-BD5A-B6F40623DDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683FF0AC-8B32-4EA8-BD5A-B6F40623DDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683FF0AC-8B32-4EA8-BD5A-B6F40623DDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683FF0AC-8B32-4EA8-BD5A-B6F40623DDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
